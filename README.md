@@ -9,6 +9,7 @@ Model Blog:
   image
 
 Images are passed through sightengine api to check nudity score of image.
+URL: https://flask-blog2.herokuapp.com/
 
 <br>
 <center><h1>Landing Page:</h1></center>
